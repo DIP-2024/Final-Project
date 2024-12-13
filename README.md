@@ -1,6 +1,6 @@
 # Final-Project
 requirements:  
-// SSD
+// SSD  
 pytorch, pillow, opencv-python  
 // yolov5  
 pytorch, pillow, opencv-python, tensorflow
