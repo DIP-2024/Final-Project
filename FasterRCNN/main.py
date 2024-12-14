@@ -19,9 +19,9 @@ time_start = time.time()
 
 
 #=== Hyperparameters ===#
-batch_size = 8
+batch_size = 32
 val_size = 0.2
-num_epochs = 50
+num_epochs = 300
 
 # Save the model
 save_model = False
