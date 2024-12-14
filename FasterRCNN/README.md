@@ -2,7 +2,7 @@
 
 Digital image processing 2024
 
-***Final progect: Smoking detection & Auto-pixelation***
+***Final project: Smoking detection & Auto-pixelation***
 
 Implementation by pre-trained Faster R-CNN on `torchvision`.
 
