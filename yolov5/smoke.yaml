@@ -1,0 +1,10 @@
+
+
+path: ./savedata/  
+train: images  
+val: images 
+
+
+nc: 1  # number of classes
+names: ['smoke']  # class names
+
